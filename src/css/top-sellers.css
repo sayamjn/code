@@ -54,6 +54,7 @@
 }
 
 .top_seller_text {
+    margin: auto;
     max-width: 306px;
     margin-top: 20px;
     margin-bottom: 32px;
@@ -132,6 +133,7 @@
         flex-basis: calc((100% - 16px)/2);
     }
     .top_seller_text {
+        margin: auto;
         display: none;
         margin-bottom: 0px;
     }

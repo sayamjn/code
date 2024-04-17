@@ -3,6 +3,12 @@
     padding-bottom: 36px;
 }
 
+
+.our-products-card-img {
+    max-width: 100%;
+    height: auto;
+  }
+
 @media screen and (min-width: 375px) {
     .container {
         width: 375px;

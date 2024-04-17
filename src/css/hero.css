@@ -54,7 +54,7 @@ h4 {
       rgba(17, 17, 17, 0) 0%,
       rgba(17, 17, 17, 0.4) 100%
     ),
-    url(../img/hero/chocolate-mobile.jpg);
+    url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
   background-position: center;
   background-color: var(--primary-color);
   background-size: cover;
@@ -73,7 +73,7 @@ h4 {
         rgba(17, 17, 17, 0) 0%,
         rgba(17, 17, 17, 0.4) 100%
       ),
-      url(../img/hero/chocolate-mobile@2x.jpg);
+      url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
   }
 }
 
@@ -190,7 +190,7 @@ h4 {
   }
 
   .container-bg-hero {
-    background-image: url(../img/hero/chocolate-tb.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 40px;
@@ -373,7 +373,7 @@ h4 {
 @media screen and (min-width: 768px) {
   .container-bg-hero {
     padding-top: 671px;
-    background-image: url(../img/hero/chocolate-tb.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
   }
 }
 
@@ -381,8 +381,7 @@ h4 {
   (min-resolution: 192dpi) and (min-width: 768px),
   (min-resolution: 2dppx) and (min-width: 768px) {
   .container-bg-hero {
-    background-image: url(../img/hero/chocolate-tb@2x.jpg);
-  }
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff)}
 }
 
 @media screen and (min-width: 1200px) {
@@ -393,7 +392,7 @@ h4 {
   .container-bg-hero {
     padding-top: 381px;
     padding-bottom: 40px;
-    background-image: url(../img/hero/hero-bg@1x.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
   }
 
   .btn-hero-first {
@@ -426,6 +425,6 @@ h4 {
   (min-resolution: 192dpi) and (min-width: 1199px),
   (min-resolution: 2dppx) and (min-width: 1199px) {
   .container-bg-hero {
-    background-image: url(../img/hero/hero-bg@2x.jpg);
+    background-image: url(https://img.freepik.com/free-photo/close-up-view-delicious-alfajores-cookies_23-2148751714.jpg?w=740&t=st=1713379486~exp=1713380086~hmac=8adb2403ca3436b109010c2a4f28588d126f5ecacbd24a6b5dd7adbc7dfb7dff);
   }
 }

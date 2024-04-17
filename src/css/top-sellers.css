@@ -13,6 +13,8 @@
     /* background-color: grey; */
 }
 
+
+
 .top_sellers_title {
     font-weight: 600;
     font-size: 20px;
@@ -70,9 +72,12 @@
 }
 
 .top_sellers_bottom_info {
+    width: 50%;
     display: flex;
     margin-top: 20px;
     justify-content: center;
+    align-items: center;
+    margin: auto;
 }
 
 .top_seller_button {
@@ -118,6 +123,8 @@
     }
 
     .top_sellers_list {
+        width: 80%;
+        margin: auto;
         display: flex;
         gap: 16px;
     }
